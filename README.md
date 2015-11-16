@@ -7,3 +7,4 @@ new line added in master branch
 1@master
 1@testconflict
 2@master
+2@testconflict
